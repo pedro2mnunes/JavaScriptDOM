@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d622867f-3e30-4842-a2b4-30c5438bfbb3" name="Default Changelist" comment="First commit.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d622867f-3e30-4842-a2b4-30c5438bfbb3" name="Default Changelist" comment="Display lang attribute value of html element">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608219467428</updated>
-      <workItem from="1608219469038" duration="2904000" />
+      <workItem from="1608219469038" duration="3284000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <created>1608219896693</created>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608219911101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Display lang attribute value of html element">
+      <created>1608222502110</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608222502110</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +82,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
+    <MESSAGE value="Display lang attribute value of html element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Display lang attribute value of html element" />
   </component>
 </project>
